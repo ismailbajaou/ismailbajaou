@@ -56,7 +56,6 @@ while continuously learning new technologies.
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
@@ -76,33 +75,7 @@ while continuously learning new technologies.
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 </p>
 
----
 
-# 🚀 What I Build
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│        💻 WEB APPLICATIONS                  │
-│                                             │
-│   React • Laravel • PHP • JavaScript        │
-│                                             │
-├─────────────────────────────────────────────┤
-│                                             │
-│        🖥️ DESKTOP APPLICATIONS              │
-│                                             │
-│             C# • .NET                       │
-│                                             │
-├─────────────────────────────────────────────┤
-│                                             │
-│        📊 BUSINESS SYSTEMS                  │
-│                                             │
-│   Inventory • Sales • Customers • Reports   │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
 
 # 📌 Featured Projects
 
@@ -158,17 +131,6 @@ A web application designed to help users organize their monthly income and expen
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # 💡 My Development Philosophy
 
