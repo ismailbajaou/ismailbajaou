@@ -12,7 +12,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+
 
 </div>
 
